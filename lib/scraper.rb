@@ -25,5 +25,6 @@ class Scraper
   
 end
 
+
 doc.css(".post")
 
