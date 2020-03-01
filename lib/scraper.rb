@@ -1,7 +1,8 @@
 require 'nokogiri'
 require 'open-uri'
+require 'pry'
 
-require_relative './course.rb'
+require_relative "./course.rb"
 
 class Scraper
   
@@ -14,6 +15,8 @@ class Scraper
         puts "  Description: #{course.description}"
       end
     end
+    
+    def 
   end
   
 end
